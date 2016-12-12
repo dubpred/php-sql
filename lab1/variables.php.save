@@ -1,0 +1,6 @@
+<html> <head></head> <body> 
+<?php $color = "#ff00ff";
+$first = "bryce";
+$last = "young";
+ echo "<font color='$color'>Hello, world</font>";
+ ?> </body> </html>
